@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/Wannika123/fem-clock)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify](https://66b77300ab63393a983e01df--darling-sundae-639278.netlify.app/)
 
 ## My process
 
